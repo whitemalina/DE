@@ -993,3 +993,9 @@ html {
     line-height: 13px;
   }
 }
+
+@media screen and (max-width: 705px) {
+  .js-tab-trigger {
+    display: block;
+  }
+}
